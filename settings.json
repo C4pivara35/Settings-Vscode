@@ -1,0 +1,33 @@
+### VsCode Settings
+
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "JetBrains Momo",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.activityBar.location": "top",
+    "explorer.confirmDragAndDrop": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.createEnvironment.trigger": "off",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": true
+    },
+    
+}
