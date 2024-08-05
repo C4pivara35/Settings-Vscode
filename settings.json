@@ -22,12 +22,4 @@
     "explorer.confirmDelete": false,
     "liveServer.settings.donotShowInfoMsg": true,
     "python.createEnvironment.trigger": "off",
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false,
-        "python": true
-    },
-    
 }
